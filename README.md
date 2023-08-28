@@ -8,16 +8,21 @@ Slides for each lecture are located [here](https://github.com/fmager/Self_Superv
 
 ### [Lars Kai Hansen](http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html) , _Introduction/SSL cookbook_
 
+- [Slides](./00_Introduction.pdf)
+
 ### [Kristoffer Wickstrøm](https://en.uit.no/ansatte/kristoffer.k.wickstrom), UiT The Arctic University of Norway, _XAI for understanding of SSL representations_
 
-[Exercises](https://github.com/Wickstrom/ssl-summer-school-dtu)
+- [Slides](https://github.com/fmager/Self_Supervised_Learning_Summer_School_2023/blob/main/Slides/01_XAI.pdf)
+- [Exercises](https://github.com/Wickstrom/ssl-summer-school-dtu)
 
 ### [Alessio Ansuini](https://www.areasciencepark.it/wp-content/uploads/alessio_ansuiniCV.pdf) & [Alberto Cazzaniga](https://www.areasciencepark.it/wp-content/uploads/alberto_cazzanigaCV.pdf), AREA Science Park, Italy, _SSL Representations & Intrinsic dimension_
 
+- Slides part [1](https://github.com/fmager/Self_Supervised_Learning_Summer_School_2023/blob/main/Slides/02_IntrinsicDimensions_01.pdf) and [2](https://github.com/fmager/Self_Supervised_Learning_Summer_School_2023/blob/main/Slides/02_IntrinsicDimensions_02.pdf)
 [Exercises](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2)
 
 ### [Emanuele Rodolà](https://gladia.di.uniroma1.it/), Sapienza University of Rome, Italy, _Introduction to relative representations_
 
+- Slides part [1], [2] and [3]
 [Exercises](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/rae.ipynb)
 
 ### [Anna Rogers](https://pure.itu.dk/da/persons/anna-rogers), ITU, Denmark, _SSL and NLP_
