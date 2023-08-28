@@ -1,14 +1,10 @@
 # Self_Supervised_Learning_Summer_School_2023
 
-## Content
-
-Slides for each lecture are located [here](https://github.com/fmager/Self_Supervised_Learning_Summer_School_2023/tree/main/Slides)
-
 ## Useful links
 
 ### [Lars Kai Hansen](http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html) , _Introduction/SSL cookbook_
 
-- [Slides](./00_Introduction.pdf)
+- [Slides](Slides/00_Introduction.pdf)
 
 ### [Kristoffer Wickstrøm](https://en.uit.no/ansatte/kristoffer.k.wickstrom), UiT The Arctic University of Norway, _XAI for understanding of SSL representations_
 
