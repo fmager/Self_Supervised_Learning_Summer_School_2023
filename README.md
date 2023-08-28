@@ -13,12 +13,12 @@
 
 ### [Alessio Ansuini](https://www.areasciencepark.it/wp-content/uploads/alessio_ansuiniCV.pdf) & [Alberto Cazzaniga](https://www.areasciencepark.it/wp-content/uploads/alberto_cazzanigaCV.pdf), AREA Science Park, Italy, _SSL Representations & Intrinsic dimension_
 
-- Slides part [1](Slides/02_IntrinsicDimensions_01.pdf) and [2](Slides/02_IntrinsicDimensions_02.pdf)
-[Exercises](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2)
+- Slides [part 1](Slides/02_IntrinsicDimensions_01.pdf) and [part 2](Slides/02_IntrinsicDimensions_02.pdf)
+- [Exercises](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2)
 
 ### [Emanuele Rodolà](https://gladia.di.uniroma1.it/), Sapienza University of Rome, Italy, _Introduction to relative representations_
 
-- Slides part [1](Slides/03_RelativeRepresentations_01.pdf) and [2](Slides/03_RelativeRepresentations_02.pdf)
+- Slides [part 1](Slides/03_RelativeRepresentations_01.pdf) and [part 2](Slides/03_RelativeRepresentations_02.pdf)
 - [Exercises](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/rae.ipynb)
 
 ### [Anna Rogers](https://pure.itu.dk/da/persons/anna-rogers), ITU, Denmark, _SSL and NLP_
