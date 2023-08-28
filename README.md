@@ -18,7 +18,7 @@
 
 ### [Emanuele Rodolà](https://gladia.di.uniroma1.it/), Sapienza University of Rome, Italy, _Introduction to relative representations_
 
-- Slides part [1](Slides/03_RelativeRepresentations_01.pdf) and [2]((Slides/03_RelativeRepresentations_02.pdf)
+- Slides part [1](Slides/03_RelativeRepresentations_01.pdf) and [2](Slides/03_RelativeRepresentations_02.pdf)
 - [Exercises](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/rae.ipynb)
 
 ### [Anna Rogers](https://pure.itu.dk/da/persons/anna-rogers), ITU, Denmark, _SSL and NLP_
