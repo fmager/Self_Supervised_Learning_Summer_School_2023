@@ -8,12 +8,12 @@
 
 ### [Kristoffer Wickstrøm](https://en.uit.no/ansatte/kristoffer.k.wickstrom), UiT The Arctic University of Norway, _XAI for understanding of SSL representations_
 
-- [Slides](Slides/01_XAI.pdf)
+- Slides [part 1](https://github.com/Wickstrom/ssl-summer-school-dtu/blob/main/intro-to-xai-ssl-summer-school-2023.pdf) and [part 2](https://github.com/Wickstrom/ssl-summer-school-dtu/blob/main/xai-for-representations-ssl-summer-school-2023.pdf)
 - [Exercises](https://github.com/Wickstrom/ssl-summer-school-dtu)
 
 ### [Alessio Ansuini](https://www.areasciencepark.it/wp-content/uploads/alessio_ansuiniCV.pdf) & [Alberto Cazzaniga](https://www.areasciencepark.it/wp-content/uploads/alberto_cazzanigaCV.pdf), AREA Science Park, Italy, _SSL Representations & Intrinsic dimension_
 
-- Slides [part 1](Slides/02_IntrinsicDimensions_01.pdf) and [part 2](Slides/02_IntrinsicDimensions_02.pdf)
+- Slides [part 1]([Slides/02_IntrinsicDimensions_01.pdf](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART1.pdf) and [part 2](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART2.pdf)
 - [Exercises](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2)
 
 ### [Emanuele Rodolà](https://gladia.di.uniroma1.it/), Sapienza University of Rome, Italy, _Introduction to relative representations_
@@ -23,7 +23,7 @@
 
 ### [Anna Rogers](https://pure.itu.dk/da/persons/anna-rogers), ITU, Denmark, _SSL and NLP_
 
-- [Slides](Slides/04_NLP.pdf)
+- [Slides](https://u.pcloud.link/publink/show?code=XZUXKaVZcFzRfRi3dQYreNG1PdJTnf7B2kUk)
 - [Exercises](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
 
 ### [Sadaf Farkhani](https://www.drcmr.dk/sadaff), DRCMR / DTU Compute, _Vision Transformer in Healthcare: Harnessing the Power and Unraveling the Trade-offs_
