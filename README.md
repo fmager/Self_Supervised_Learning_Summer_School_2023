@@ -17,7 +17,7 @@ August 21-25, 2023
 - Slides [part 1](https://github.com/Wickstrom/ssl-summer-school-dtu/blob/main/intro-to-xai-ssl-summer-school-2023.pdf) and [part 2](https://github.com/Wickstrom/ssl-summer-school-dtu/blob/main/xai-for-representations-ssl-summer-school-2023.pdf)
 - [Exercises](https://github.com/Wickstrom/ssl-summer-school-dtu)
 
-## [Alessio Ansuini](https://www.areasciencepark.it/wp-content/uploads/alessio_ansuiniCV.pdf) & [Alberto Cazzaniga](https://www.areasciencepark.it/wp-content/uploads/alberto_cazzanigaCV.pdf), AREA Science Park, Italy, _SSL Representations & Intrinsic dimension_
+## [Alessio Ansuini](https://www.areasciencepark.it/wp-content/uploads/alessio_ansuiniCV.pdf) & [Alberto Cazzaniga](other/20230818_CV.pdf), AREA Science Park, Italy, _SSL Representations & Intrinsic dimension_
 
 - Slides [part 1](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART1.pdf) and [part 2](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2/blob/main/ML_Advanced_School_DAY2_PART2.pdf)
 - [Exercises](https://github.com/AlbertoCazzaniga/DTU_SUMMER_SCHOOL_DAY2)
