@@ -1,11 +1,10 @@
-# Self_Supervised_Learning_Summer_School_2023
+# Self Supervised Learning Summer School 2023
 
 02901 Advanced Topics in Machine Learning: Self-Supervised Learning 
 
 August 21-25, 2023
 
 [Course Website](https://www2.imm.dtu.dk/courses/02901/)
-
 
 ---
 
