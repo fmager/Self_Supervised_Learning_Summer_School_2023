@@ -30,7 +30,7 @@ August 21-25, 2023
 ## [Anna Rogers](https://pure.itu.dk/da/persons/anna-rogers), ITU, Denmark, _SSL and NLP_
 
 - [Slides](https://u.pcloud.link/publink/show?code=XZUXKaVZcFzRfRi3dQYreNG1PdJTnf7B2kUk)
-- [Exercises](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
+- Exercises [part1](https://colab.research.google.com/github/erodola/DLAI-s2-2023/blob/main/labs/08/8_Variational_Autoencoders_(VAEs).ipynb) and [part 2](https://colab.research.google.com/drive/1Fia263yMPSKyoZ3eg8eDW4lAZVARNtpr?usp=sharing)
 
 ## [Sadaf Farkhani](https://www.drcmr.dk/sadaff), DRCMR / DTU Compute, _Vision Transformer in Healthcare: Harnessing the Power and Unraveling the Trade-offs_
 
